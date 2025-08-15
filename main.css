@@ -165,7 +165,7 @@ body {
 /* Landing */
 
 .landing {
-    background: url(./images/Landing.jpg);
+    background: url(./images/Landing2.jpg);
     background-size: cover;
     height: calc(100vh + 64px);
     position: relative;
@@ -182,7 +182,7 @@ body {
 }
 .landing .intro-text h1 {
     margin: 0;
-    color: var(--main-color);
+    color: white;
     font-weight: bold;
     font-size: 50px;
 }
